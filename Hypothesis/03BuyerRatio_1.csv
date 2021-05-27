@@ -1,0 +1,17 @@
+Observed Values,East,West,North,South,Total,,,H0=All Proportion are equal,
+Males,50,142,131,70,393,,,Ha=All Proportion are Not equal,
+Females,435,1523,1356,750,4064,,,,
+Total,485,1665,1487,820,4457,,,,
+,,,,,,,,,
+,,,,,,,,,
+Expected Frequency,,,,,,,,,
+Observed Values,East,West,North,South,Total,,,df,3
+Male,42.76531299,146.8128786,131.1175679,72.30424052,393,,,CV,1.597309616
+Female,442.234687,1518.187121,1355.882432,747.6957595,4065,,,P-Value,0.660309491
+Total,485,1665,1487,820,4457,,,,
+,,,,,,,,,
+Chi Squared,,,,,,,,,
+Observed Values,East,West,North,South,Total,,"p>alpha(0.660>0.05), So We fail to reject Null Hypothesis.",,
+Male,1.223905368,0.157777715,0.000105418,0.073433098,1.4552216,,,,
+Female,0.118355022,0.01525754,1.02E-05,0.007101183,0.140723939,,,,
+,,,,,1.595945539,,,,
